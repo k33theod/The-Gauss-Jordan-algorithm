@@ -11,7 +11,7 @@ int main(int argc, char **argv)
         {9, 10, 5, 8, 115},
         {12, 7, 3, 9, 186},
     };
-    e_s = read_system ();
+    //e_s = read_system ();
     print_vector(e_s);
     
    
